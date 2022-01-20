@@ -28,7 +28,7 @@ node index.js
   
 ![Profile Image](https://github.com/kdher.png?size=50)
   
-If you have any questions, contact the author directly at edher.fca@gmail.com.
+If you have any questions, contact the author directly at edher.fca@gmail.com
   ---
 
   ## Installation
@@ -61,8 +61,16 @@ If you have any questions, contact the author directly at edher.fca@gmail.com.
   WHEN I click on the links in the Table of Contents
   THEN I am taken to the corresponding section of the README
   ```
+  ## Technologies Used
+
+ - HTML5
+ - CSS
+ - Github
+ - JavaScritp
+ - Node.js
+
   ## Screenshot
-  ![The readme app receives series of inputs, selections and generates a readme.md file for the user or developer. Attached is a screenshot of what the finished product looks like.](.\Assets\images\ReadmeGenerator.gif)
+  ![Image Text.](./Assets/images/ReadmeGenerator.gif)
   ## License
   APACHE 2.0
 
