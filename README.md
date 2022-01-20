@@ -7,7 +7,7 @@ A command-line application that dynamically generates a README.md from a user's 
 node index.js
   ---
   ## Useful Links
-  [Deployed Application] ()
+  [Deployed Application] (https://kdher.github.io/README-Generator/)
   
  GitHub at: https://github.com/kdher/README-Generator
   
