@@ -3,13 +3,13 @@
 
 Receiving inputs from the user (developer), this project should automatically generate a professional readme file reflecting the users input. This project will be developed using Git, NodeJS and NPM Module Inquirer.
 A command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command:
-
+``` 
 node index.js
+``` 
   ---
-  ## Useful Links
-  [Deployed Application] (https://kdher.github.io/README-Generator/)
-  
- GitHub at: https://github.com/kdher/README-Generator
+## Useful Links
+[Deployed Application] (https://kdher.github.io/README-Generator/)  
+GitHub at: https://github.com/kdher/README-Generator
   
   ## Table of Contents
 
@@ -24,11 +24,11 @@ node index.js
 
   ## Author Info
   
-![Badge](https://img.shields.io/badge/Github-kdher-4cbbb9) 
+ ![Badge](https://img.shields.io/badge/Github-kdher-4cbbb9) 
   
-![Profile Image](https://github.com/kdher.png?size=50)
+ ![Profile Image](https://github.com/kdher.png?size=50)
   
-If you have any questions, contact the author directly at edher.fca@gmail.com
+ If you have any questions, contact the author directly at edher.fca@gmail.com
   ---
 
   ## Installation
